@@ -65,7 +65,6 @@ namespace Lab1
         {
             double answer = 0;
             
-
             // code here
             if (Math.Abs(x) > 1)
             {
